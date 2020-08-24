@@ -29,7 +29,7 @@ namespace Inheritance_Constructor
             Console.WriteLine("Length :" + Length + " " + "Breadth :" + Breadth);
         }
     }
-
+    //Derived Class
     class AreaofRectangle : Rectangle
     {
         string shape;
